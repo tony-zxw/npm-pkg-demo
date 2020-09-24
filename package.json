@@ -1,5 +1,5 @@
 {
-  "name": "@tony/npm-pkg-demo",
+  "name": "@tony_zhang/npm-pkg-demo",
   "version": "1.0.0",
   "description": "npm pkg demo",
   "main": "index.js",
